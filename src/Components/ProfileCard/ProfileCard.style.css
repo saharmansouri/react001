@@ -1,0 +1,12 @@
+.Profile{
+    background: #0c2b5e;
+    border-radius: 10px;
+    width: 200px;
+    height: 250px;
+    padding: 20px;
+    margin: 10px 50px;
+    box-shadow: 5px 5px 30px black;
+}
+h2{
+font-size: 18px;
+}
